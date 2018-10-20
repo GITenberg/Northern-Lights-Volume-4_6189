@@ -1,5 +1,5 @@
 _repo: Northern-Lights-Volume-4_6189
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Short stories, Canadian'
 - !lcc 'PS'
 - !lcsh 'Canada, Northern -- Fiction'
+- GITenberg
 tableOfContents: A man, a famine, and a heathen boy -- The healing springs and the
   pioneers -- The little widow of Jansen -- Watching the rise of Orion.
 title: Northern Lights, Volume 4.
